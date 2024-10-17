@@ -4,5 +4,5 @@
  */
 define("HOSTNAME","localhost");
 define("USERNAME","root");
-define("PASSWORD","142065C1@2u3s#");
+define("PASSWORD","");
 define("DATABASE","cadastro");
